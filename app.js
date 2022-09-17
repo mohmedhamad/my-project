@@ -1,1 +1,1 @@
-alert(" GET THE HELL OUT !!");
+alert(" GET THE HELL OUT NOW!!");
